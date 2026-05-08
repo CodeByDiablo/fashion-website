@@ -40,9 +40,7 @@ A modern luxury fashion landing page built using pure HTML and CSS with an edito
 Loomé-Fashion-Website/
 │
 ├── index.html
-├── style.css
-│
-└── assets/
+└── style.css
 ```
 
 ---
